@@ -24,15 +24,24 @@ The commands required to run this aaplication are:
 
 2. Install all the requirements:
    we can install all the requirements by the following command:
+   
    pip install -r requirements.txt
 
 OR
+
   we can also install it by just installing flask, all the requirements come with it
   The command to be used is:
+  
   pip install flask
+  
   Note that we hae used flask 3.0.2 here for our project.
+
+
+  
 3. To run our project, the next command would be:
+   
   python run.py
+  
   This command will launch our project and will be accesible on port 5000.
   We can navigate to the link directly with our command line by the link provided there or we can navigate manually by opening the browser and going to http://127.0.0.1:5000.
 
