@@ -1,6 +1,7 @@
 # flask-app
 
-This is a cart application with three pages. 
+This is a cart application with three pages. All the pages are linked together using flask framework 
+
 The first page contains thel ist of 20 products to look out for, from amazon and flipkart. 
 
 Libraries used:
